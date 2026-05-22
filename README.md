@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou o Weberth 👋
 
-<!--
-**wel-lopes/wel-lopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Gestão da Tecnologia da Informação focado em desenvolvimento backend Java.
 
-Here are some ideas to get you started:
+## Tecnologias
+- Java
+- Spring Boot
+- PostgreSQL
+- APIs REST
+- Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Atualmente
+Desenvolvendo projetos backend e aprimorando conhecimentos em infraestrutura e suporte técnico.
